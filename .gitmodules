@@ -1,0 +1,12 @@
+[submodule "user-console"]
+	path = user-console
+	url = https://github.com/SongZihuan/chuangxinyi-console.git
+[submodule "user-backend"]
+	path = user-backend
+	url = https://github.com/SongZihuan/chuangxinyi-backend.git
+[submodule "community-site"]
+	path = community-site
+	url = https://github.com/SongZihuan/chuangxinyi-communicate-front.git
+[submodule "community-backend"]
+	path = community-backend
+	url = https://github.com/SongZihuan/chuangxinyi-communicate-backend.git
